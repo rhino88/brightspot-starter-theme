@@ -1,13 +1,20 @@
 # Brightspot Starter Theme
 
+## Prerequisites
+
+* Node 8.9.3
+* Gulp 3.9.x
+
+## Documentation
+
+[Styleguide Documentation](http://docs.brightspot.com/styleguide/intro/index.html)
+
 ## What's Included
 
 ### Pages
 
 * Article
 * Gallery
-* Video
-* Page (with modules)
 
 ### Components
 
